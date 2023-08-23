@@ -7,12 +7,12 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94740804536', 'Dinuwa Official²⁰²³', true],
-  ['94740804536', 'Dinuwa Official²⁰²³', true], 
+  ['923130651254', '𝙈𝘼𝙇𝙄𝙆 𝙎𝘼𝙈𝘼𝙈𝘼²⁰²³', true],
+  ['923130651254', '𝙈𝘼𝙇𝙄𝙆 𝙎𝘼𝙈𝘼𝙈𝘼²⁰²³', true], 
   [''] 
 ] //Number of owners
 
-global.mods = ['94740804536','94740804536'] 
+global.mods = ['923130651254','94740804536'] 
 global.prems = ['94740804536', '94740804536', '94740804536']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
@@ -47,11 +47,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '💝 Queen Hentai 💝'
+global.botname = '💝 𝙈𝘼𝙇𝙄𝙆 𝙎𝘼𝙈𝘼𝙈𝘼 💝'
 global.premium = 'true'
-global.packname = '💝 Queen Hentai 💝 Created By 💝 Dinuwa Official²⁰²³ 💝' 
-global.author = '💝 Dinuwa Official²⁰²³ 💝' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/Dinuwa Official²⁰²³\n' 
+global.packname = '💝 𝙈𝘼𝙇𝙄𝙆 𝙎𝘼𝙈𝘼𝙈𝘼 💝 Created By 💝 𝙈𝘼𝙇𝙄𝙆 𝙎𝘼𝙈𝘼𝙈𝘼²⁰²³ 💝' 
+global.author = '💝 𝙈𝘼𝙇𝙄𝙆 𝙎𝘼𝙈𝘼𝙈𝘼²⁰²³ 💝' 
+global.igfg = '▢ Follow on Instagram\nhttps://instagram.com/malik_samama316 Official²⁰²³\n' 
 global.dygp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
 global.fgsc = 'https://github.com/dinuwah/QUEEN-HENTAI' 
 global.fgyt = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
@@ -59,7 +59,7 @@ global.fgpyp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
 global.fglog = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg' 
 
 
-global.wait = '*💝 _Waiting Bro Uploading by 💝 Queen Hentai 💝..._*'
+global.wait = '*💝 _Waiting Bro Uploading by 💝 𝙈𝘼𝙇𝙄𝙆 𝙎𝘼𝙈𝘼𝙈𝘼 💝..._*'
 global.rwait = '🇱🇰'
 global.dmoji = '🤣'
 global.done = '👍'
